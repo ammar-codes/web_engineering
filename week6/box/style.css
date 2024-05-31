@@ -1,0 +1,23 @@
+.main_div{
+    height: 400px;
+    width: 400px;
+    background-color: aquamarine;
+    display: flex;
+    flex-direction: column;
+
+}
+
+#container{
+    display: flex;
+    flex-direction: row;
+    height: 500px;
+    width: auto;
+    /* background-color: blue; */
+}
+
+.color{
+    height: auto;
+    width: 50px;
+    /* background-color: red; */
+    margin: 1px;
+}
