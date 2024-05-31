@@ -1,0 +1,14 @@
+.container{
+    height: 200px;
+    width: 200px;
+}
+.image-gallery{
+    width: 300px;
+    height: 50px;
+    display: flex;
+    flex-direction: row;  
+}
+#gallery-image{
+    width: 200px;
+    height: 200px;
+}
